@@ -36,6 +36,7 @@ Tabayyan is an AI-powered security framework and web platform designed to detect
 
 ### 1. Clone the Repository
 git clone https://github.com/RenadThamer/Tabayyan.git
+
 cd Tabayyan
 
 ### 2. Install Dependencies
