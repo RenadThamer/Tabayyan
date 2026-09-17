@@ -9,7 +9,6 @@ Tabayyan is an AI-powered security framework and web platform designed to detect
   1. Inspects recruitment URLs against phishing indicators and verified domain whitelists (e.g., official government and educational domains).
   2. Analyzes textual content, semantic structures, and deceptive language cues within job descriptions.
 - **Weighted Ensemble Architecture:** Deploys a hybrid voting mechanism that dynamically integrates predictions from **Random Forest (RF)** and **Convolutional Neural Networks (CNN)** weighted via TF-IDF statistical properties.
-- **Explainable AI (XAI):** Built upon experimental feature importance insights (including LIME for CNN) to focus detection on high-risk fields like job requirements, company profiles, and location context.
 - **User History & Authentication:** Seamlessly integrates with Google Firebase (Authentication & Cloud Firestore) to track and store user scans securely.
 
 ---
