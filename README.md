@@ -51,7 +51,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 👥 Authors & Team
+## 👥 Team Members:
 - **Renad Albogami**
 - **Shahad Aldeiji**
 - **Rola Alzahrani**
